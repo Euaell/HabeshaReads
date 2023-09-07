@@ -33,17 +33,19 @@ HabeshaReads is a cutting-edge platform that revolutionizes the way you experien
 ## Installation
 1. Clone the repo
    ```sh
-   git clone
+   git clone https://github.com/Euaell/HabeshaReads
     ```
 2. Install NPM packages
     1. Frontend
         ```sh
-        cd web
+        cd Frontend
         npm install
         ```
     2. Backend
         ```sh
-        cd server
+        cd Backend
         npm install
         ```
-3. Create a .env file in the server folder and add the variables in the .env.example file
+3. Create a .env file in the Backend folder and add the variables in the .env.example file
+
+
