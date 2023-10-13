@@ -23,6 +23,8 @@ HabeshaReads is a cutting-edge platform that revolutionizes the way you experien
 
 **8. Accessibility:** Audiobookify is committed to accessibility. Our platform ensures that everyone, regardless of their abilities, can enjoy the world of literature through spoken words.
 
+**9. Quote Generator:** Generate quotes for a character in the book. 
+
 ## Technologies Used
 - React
 - Node.js
